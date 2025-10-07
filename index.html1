@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bilga.ai — Welcome</title>
+</head>
+<body style="font-family: sans-serif; max-width: 600px; margin: 2rem auto; padding: 1rem; line-height: 1.6;">
+  <h1>👋 Welcome to <span style="color:#007bff">Bilga</span></h1>
+  <p><strong>Bilga</strong> is a multilingual educational and mental health support platform for neurodivergent and language-learning teens, founded by <strong>Nasiba Suyunova</strong>, a psycholinguistics researcher and teacher.</p>
+
+  <h2>🎧 Welcome Messages</h2>
+  <p><strong>In Uzbek:</strong></p>
+  <audio controls>
+    <source src="assets/audio/bilga_welcome_uzbek.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+  <p><strong>In Russian:</strong></p>
+  <audio controls>
+    <source src="assets/audio/bilga_welcome_russian.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+  <p><strong>In English:</strong></p>
+  <audio controls>
+    <source src="assets/audio/bilga_welcome_english.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+  <h2>📬 Contact</h2>
+  <ul>
+    <li><a href="mailto:suyunovanasiba3@gmail.com">suyunovanasiba3@gmail.com</a></li>
+    <li><a href="https://www.linkedin.com/in/nasiba-suyunova-4a53902a5/" target="_blank">LinkedIn</a></li>
+    <li>Telegram: <a href="https://t.me/AcademicResercherNS">@AcademicResercherNS</a></li>
+  </ul>
+
+  <h2>💖 Support Us</h2>
+  <p>If you'd like to support <strong>Bilga</strong>, you can donate to help us grow and reach more youth. [Add donation link here later]</p>
+
+</body>
+</html>
